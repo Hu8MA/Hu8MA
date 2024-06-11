@@ -24,7 +24,7 @@ on my journey of invention, innovation, and problem-solving. Let's explore the v
    <br>
    
   
-  ##  Follow my insights and connect with me on  
+  #  Follow my insights and connect with me on  🥇
   <br>
    <br>
    
@@ -69,10 +69,6 @@ on my journey of invention, innovation, and problem-solving. Let's explore the v
  <img src="https://img.icons8.com/?size=256&id=UE01mCLFBOl4&format=png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
 </div>
 <br>
-
- 
- # My State 📍 
- 
 
  <br>
 
