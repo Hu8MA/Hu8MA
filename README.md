@@ -22,14 +22,12 @@ on my journey of invention, innovation, and problem-solving. Let's explore the v
 
    <br>
    <br>
-   <br>
-   <br>
+   
   
   ##  Follow my insights and connect with me on  
   <br>
    <br>
-   <br>
-   <br>
+   
    
  <div style="display: flex; flex-direction: row; justify-content: center;"> 
      <img src="https://cdn-icons-png.flaticon.com/512/2335/2335380.png" alt="LinkedIn logo" style="width: 68px; height: 68px; margin: 14px;"> 
@@ -47,9 +45,7 @@ on my journey of invention, innovation, and problem-solving. Let's explore the v
  
 
    <br>
-   <br>
-   <br>
-   <br> 
+ 
  <div style="display: flex; flex-direction: row ; justify-content: center; "> 
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
@@ -73,13 +69,11 @@ on my journey of invention, innovation, and problem-solving. Let's explore the v
  <img src="https://img.icons8.com/?size=256&id=UE01mCLFBOl4&format=png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
 </div>
 <br>
-<br>
-<br>
+
  
  # My State 📍 
  
- <br>
- <br>
+
  <br>
 
 ![My State](https://github-readme-stats.vercel.app/api?username=Hu8MA&show_icons=true&theme=chartreuse-dark)
