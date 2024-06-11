@@ -50,7 +50,7 @@ on my journey of invention, innovation, and problem-solving. Let's explore the v
    <br>
    <br>
    <br> 
- <div style="display: flex; flex-direction: row ; justify-content: center; "> 
+ <div style="display:  center; "> 
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
