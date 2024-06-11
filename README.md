@@ -3,16 +3,14 @@
 <p style="font-size: 14px; font-family:Verdana, Geneva, Tahoma, sans-serif; color:#f8f9fa ; padding: 3px; ">
  Welcome!  I'm <span style="color:#06d6a0 ;">Hussein Mahdi</span> , a passionate software engineer with a rich journey in software development. I thrive on crafting elegant software architectures ⚙ and developing innovative solutions. Writing and sharing knowledge in the programming realm 🕸 is my passion, and I'm always eager to explore new algorithms 🏴‍☠️ and analyze their intricacies.
 <br>
-<br>
+
 
 I believe 🎯 in the beauty of diverse perspectives, much like viewing clouds from multiple angles. By examining challenges 🥇 from various viewpoints, we can uncover their hidden beauty and elegant solutions.
 <br>
-<br>
-<br>
-<span style="color: #06d6a0;">
-    Join me 💡
-</span>
-on my journey of invention, innovation, and problem-solving. Let's explore the vast world of programming together!
+
+    
+ 
+**`Join me 💡 on my journey of invention, innovation, and problem-solving. Let's explore the vast world of programming together!`**
     </p>
      
    <span style="font-size: 16px; font-family:Verdana, Geneva, Tahoma, sans-serif; color:#f8f9fa ; padding: 3px; ">
@@ -21,7 +19,7 @@ on my journey of invention, innovation, and problem-solving. Let's explore the v
    </span> 
 
    <br>
-   <br>
+
    
   
   #  Follow my insights and connect with me on  🥇
