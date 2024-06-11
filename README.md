@@ -1,4 +1,4 @@
-# Hussein Mahdi 👨‍💻
+<h1 align="center"> Hi 👋, I'm  Hussein Mahdi 👨‍💻</h1>
    
 <p style="font-size: 14px; font-family:Verdana, Geneva, Tahoma, sans-serif; color:#f8f9fa ; padding: 3px; ">
  Welcome!  I'm <span style="color:#06d6a0 ;">Hussein Mahdi</span> , a passionate software engineer with a rich journey in software development. I thrive on crafting elegant software architectures ⚙ and developing innovative solutions. Writing and sharing knowledge in the programming realm 🕸 is my passion, and I'm always eager to explore new algorithms 🏴‍☠️ and analyze their intricacies.
@@ -27,13 +27,17 @@ I believe 🎯 in the beauty of diverse perspectives, much like viewing clouds f
    <br>
    
    
- <div style="display: flex; flex-direction: row; justify-content: center;"> 
-     <img src="https://cdn-icons-png.flaticon.com/512/2335/2335380.png" alt="LinkedIn logo" style="width: 68px; height: 68px; margin: 14px;"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969109.png" alt="Dev.to Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="twitter Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
-    
-  </div>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding: 10px; border: none;"><img src="https://cdn-icons-png.flaticon.com/512/2335/2335380.png" alt="LinkedIn logo" style="width: 68px; height: 68px;"></td>
+    <td style="padding: 10px; border: none;"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969109.png" alt="Dev.to Logo" style="width: 68px; height: 68px;"></td>
+    <td style="padding: 10px; border: none;"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium Logo" style="width: 68px; height: 68px;"></td>
+    <td style="padding: 10px; border: none;"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="Twitter Logo" style="width: 68px; height: 68px;"></td>
+  </tr>
+</table>
+
+
+
 
 <br>
 <br>
@@ -44,7 +48,7 @@ I believe 🎯 in the beauty of diverse perspectives, much like viewing clouds f
 
    <br>
  
- <div style="display: flex; flex-direction: row ; justify-content: center; "> 
+ <div  align="center"> 
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
