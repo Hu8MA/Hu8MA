@@ -74,5 +74,4 @@ I believe 🎯 in the beauty of diverse perspectives, much like viewing clouds f
 
  <br>
 
-![My State](https://github-readme-stats.vercel.app/api?username=Hu8MA&show_icons=true&theme=chartreuse-dark)
-</body>
+ </body>
