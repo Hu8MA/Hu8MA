@@ -15,7 +15,7 @@ I believe 🎯 in the beauty of diverse perspectives, much like viewing clouds f
      
    <span style="font-size: 16px; font-family:Verdana, Geneva, Tahoma, sans-serif; color:#f8f9fa ; padding: 3px; ">
     Discover more on my website :
-    <a href="https://programmercoffee.xyz" style="color: #06d6a0;font-size: 16px;text-decoration: none;">Programmer Coffee ☕ </a>
+    <a href="https://hu8ma.github.io" style="color: #06d6a0;font-size: 16px;text-decoration: none;">Programmer Coffee ☕ </a>
    </span> 
 
    <br>
