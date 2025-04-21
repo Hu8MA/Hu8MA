@@ -62,13 +62,14 @@ I believe 🎯 in the beauty of diverse perspectives, much like viewing clouds f
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="Logo"style="width: 120px; height: 68px; margin: 14px; ;" >
  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://www.svgrepo.com/show/354272/redis.svg" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
- <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://cdn-icons-png.flaticon.com/512/15466/15466163.png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://img.icons8.com/?size=256&id=EgOU93v1DHjU&format=png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
  <img src="https://img.icons8.com/?size=256&id=UE01mCLFBOl4&format=png" alt="Logo"style="width: 68px; height: 68px; margin: 14px; ;" >
+ <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" alt="Logo" style="width: 100px; height: 100px; margin: 14px;" />
+
 </div>
 <br>
 
