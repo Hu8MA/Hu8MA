@@ -32,7 +32,7 @@ I believe 🎯 in the beauty of diverse perspectives, much like viewing clouds f
     <td style="padding: 10px; border: none;"><img src="https://cdn-icons-png.flaticon.com/512/2335/2335380.png" alt="LinkedIn logo" style="width: 68px; height: 68px;"></td>
     <td style="padding: 10px; border: none;"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969109.png" alt="Dev.to Logo" style="width: 68px; height: 68px;"></td>
     <td style="padding: 10px; border: none;"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium Logo" style="width: 68px; height: 68px;"></td>
-    <td style="padding: 10px; border: none;"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="Twitter Logo" style="width: 68px; height: 68px;"></td>
+    <td style="padding: 10px; border: none;"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bluesky-icon.png" alt="Twitter Logo" style="width: 68px; height: 68px;"></td>
   </tr>
 </table>
 
