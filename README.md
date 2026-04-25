@@ -141,11 +141,13 @@ Where I apply lightweight, fast models:
 
 | Repository | Description |
 |---|---|
+| **[H²GNN](https://github.com/Hu8MA/HHGNN)** | A hierarchical hypergraph-based deep learning framework for predicting drug-drug interactions (DDIs).  built in Python. |
 | **[Papers](https://github.com/Hu8MA/Papers)** | Research analyses across Computer Vision, Graph Neural Networks, Information Warfare, and Software Engineering. |
-| **Algorithms_Library** | A research-grade collection of algorithms spanning machine learning, problem solving, memory management, OS, and information security. |
-| **full_Web_Api_template** | Production-ready .NET 6 Web API template with JWT, Identity, Entity Framework, and clean RESTful architecture. |
-| **App_WebApi** | Enterprise web API built on ASP.NET Core 8.0 implementing MVVM alongside Clean Architecture. |
-| **Attendance_QR_Code** | Android-based student attendance system using QR code technology, built in Java. |
+| **[Algorithms Library](https://github.com/Hu8MA/Algorithms_Library)** | A research-grade collection of algorithms spanning machine learning, problem solving, memory management, OS, and information security. built in Java. |
+| **[Full Template(Web_API) ](https://github.com/Hu8MA/full_Web_Api_template)** | Production-ready .NET 6 Web API template with JWT, Identity, Entity Framework, and clean RESTful architecture. built in C#.|
+| **[Web Application API](https://github.com/Hu8MA/App_WebApi)** | Enterprise web API built on ASP.NET Core 8.0 implementing MVVM alongside Clean Architecture. built in C#.|
+| **[Attendance QR Code](https://github.com/Hu8MA/Attendance_QR_Code)** | Android-based student attendance system using QR code technology, built in Java. |
+
 
 ---
 
