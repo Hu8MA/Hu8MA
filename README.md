@@ -163,13 +163,10 @@ Where I apply lightweight, fast models:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hu8MA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hu8MA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
+    <img src="https://streak-stats.demolab.com?user=Hu8MA&theme=tokyonight&hide_border=true" height="165"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hu8MA&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
+ 
 ---
 
 <p align="center">
