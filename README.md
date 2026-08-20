@@ -20,7 +20,7 @@
   <a href="https://dev.to/_hm"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   <a href="https://coderlegion.com/user/Hussein+Mahdi"><img src="https://img.shields.io/badge/CoderLegion-1E1E2E?style=flat&logo=codeforces&logoColor=white" alt="CoderLegion"/></a>
   <a href="https://bsky.app/profile/hussein16mahdi.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
-  <a href="https://hu8ma.github.io/"><img src="https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox&logoColor=white" alt="Website"/></a>
+  <a href="https://husseinmahdi.xyz/"><img src="https://img.shields.io/badge/Website-FF7139?style=flat&logo=firefox&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
